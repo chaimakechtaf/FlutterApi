@@ -2,6 +2,7 @@
     <application
         android:label="pfe_ecommerce"
         android:name="${applicationName}"
+        android:usesCleartextTraffic="true"
         android:icon="@mipmap/ic_launcher">
 
 
